@@ -1,7 +1,10 @@
 # 🏠 Data Engineering with Pandas – 7 Day ETL Project
 
-Medium Blog | Pandas | Python | Data Engineering
-
+[![Medium Blog](https://img.shields.io/badge/Medium-Building%20a%20Data%20Pipeline%20for%20Housing%20Market%20Insights-black?logo=medium)](https://medium.com/@ghazal3501/building-a-data-pipeline-for-housing-market-insights-a-7-day-data-engineering-journey-1bb75275a155)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-ETL-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ---
 
 ## 📂 Repository Contents
